@@ -1,0 +1,3 @@
+Jack,18,M
+John,21,M
+Mary,19,F
