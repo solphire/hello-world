@@ -1,0 +1,4 @@
+Jack,20,M
+John,21,M
+Mary,20,F
+Rucy,18,F
